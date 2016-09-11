@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     ims \
     qcrilmsgtunnel \
     TimeService \
-    TurboToast \
     VZWAPNLib
 
 # /system/framework
